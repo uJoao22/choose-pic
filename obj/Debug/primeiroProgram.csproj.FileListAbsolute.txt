@@ -19,3 +19,10 @@ C:\Users\uJão\Desktop\Programação\GitHub\C#\ChoosePic\obj\Debug\primeiroProgr
 C:\Users\uJão\Desktop\Programação\GitHub\C#\ChoosePic\obj\Debug\primeiroProgram.csproj.GenerateResource.Cache
 C:\Users\uJão\Desktop\Programação\GitHub\C#\ChoosePic\obj\Debug\primeiroProgram.exe
 C:\Users\uJão\Desktop\Programação\GitHub\C#\ChoosePic\obj\Debug\primeiroProgram.pdb
+C:\Users\uJão\Desktop\Programação\GitHub\C#\choose-pic\bin\Debug\primeiroProgram.exe
+C:\Users\uJão\Desktop\Programação\GitHub\C#\choose-pic\bin\Debug\primeiroProgram.pdb
+C:\Users\uJão\Desktop\Programação\GitHub\C#\choose-pic\obj\Debug\primeiroProgram.csprojResolveAssemblyReference.cache
+C:\Users\uJão\Desktop\Programação\GitHub\C#\choose-pic\obj\Debug\primeiroProgram.MainForm.resources
+C:\Users\uJão\Desktop\Programação\GitHub\C#\choose-pic\obj\Debug\primeiroProgram.csproj.GenerateResource.Cache
+C:\Users\uJão\Desktop\Programação\GitHub\C#\choose-pic\obj\Debug\primeiroProgram.exe
+C:\Users\uJão\Desktop\Programação\GitHub\C#\choose-pic\obj\Debug\primeiroProgram.pdb
